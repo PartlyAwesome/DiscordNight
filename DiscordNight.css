@@ -42,7 +42,7 @@
 	--Chat-Wave-To-New-User-Button: flex;				/* flex = ON, none = OFF */
 	--Chat-Wave-To-New-DM-Button: flex;					/* flex = ON, none = OFF */
 	
-	--Text-Channels-Capital-Letter: capitalize;			/* capitalize, none */
+	--Text-Channels-Capital-Letter: none;			/* capitalize, none */
 	
 	--Voice-Noise-Suppression: none;					/* flex = ON, none = OFF */
 	--Start-Activities-Button: flex;					/* flex = ON, none = OFF */
